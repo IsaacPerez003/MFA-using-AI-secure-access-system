@@ -1,0 +1,7 @@
+opencv-python
+numpy
+face_recognition
+rpi-lgpio
+mfrc522
+Pillow
+picamera2
