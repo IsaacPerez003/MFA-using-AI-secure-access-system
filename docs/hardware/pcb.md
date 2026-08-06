@@ -48,3 +48,6 @@ The fully populated board mounted onto the Raspberry Pi 5, with the RC522 reader
 - **Design tool**: Altium Designer
 - **Manufacturer**: OSHPark
 - **Connectors used**: SSW-120-02-T-D-RA (40-pin 2x20, bottom layer, mirrored) for the Pi GPIO header; SSQ-111-03-G-S (11-pin single-row) for the RFID + relay connector (J3)
+- ## Fabrication Files
+
+- [Gerber files (.zip)](PCB_DESIGN.zip) — ready to submit to a PCB manufacturer
